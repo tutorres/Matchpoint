@@ -5,7 +5,7 @@
 ## Sobre o Projeto
 Encontrar pessoas disponíveis e dispostas a praticar esportes em grupo pode ser um grande desafio. Pensando nisso, o site “GRUPO DE ESPORTE” foi desenvolvido com o propósito de facilitar a conexão entre pessoas com interesses esportivos similares e também para aqueles que desejam conhecer uma nova modalidade esportiva.
 
-![Demonstração do Site](https://link-para-seu-gif.gif)
+![Demonstração do Site](/MatchPoint.gif)
 
 ## Dificuldades e Habilidades Adquiridas
 
