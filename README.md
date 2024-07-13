@@ -1,5 +1,11 @@
 # Matchpoint
-# Sobre o projeto
-Quando o assunto é pratica de esportes em grupo nós identificamos um grande e comum problema, que é, encontrar pessoas que estejam disponíveis e dispostas a para a pratica da atividade, sendo assim o nosso site “GRUPO DE ESPORTE” vai ser desenvolvido com o propósito de facilitar a conexão entre pessoas com interesses esportivos similares e também para pessoas que desejam conhecer uma nova modalidade esportiva.
+# Sobre o Projeto
+Encontrar pessoas disponíveis e dispostas a praticar esportes em grupo pode ser um grande desafio. Pensando nisso, o site “GRUPO DE ESPORTE” foi desenvolvido com o propósito de facilitar a conexão entre pessoas com interesses esportivos similares e também para aqueles que desejam conhecer uma nova modalidade esportiva.
 
-Seja você um atleta experiente ou alguém que está começando agora no mundo esportivo. Nosso público-alvo no momento são os universitários da PUC, mas também qualquer outra pessoa que deseje encontrar parceiros para a pratica de esportes. O sit# Perfil do Grupo de esportes Ciência da computação - PUC Minas
+# Dificuldades e Habilidades Adquiridas
+• Primeiro Contato com JavaScript:
+- Entendimento inicial do LocalStorage e seu manejo com JSON.
+• Trabalho em Grupo:
+-Experiência valiosa, apesar de alguns atritos, que me engrandeceu como profissional focado em trabalho colaborativo.
+•Utilização do Git:
+-Aprendizado sobre versionamento correto e boas práticas no uso do Git.
